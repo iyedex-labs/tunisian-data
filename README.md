@@ -25,7 +25,7 @@ The structure is optimized for **Large Language Models (LLMs)**. By separating d
 This structure is designed for "Ease of Entry." Developers can quickly find where their data belongs.
 
 ```text
-root/
+3amali-tunisian-data/
 ├── data/
 │   ├── 01_chat_darja/
 │   │   ├── q_a_casual/              | Daily "Question & Response" pairs
