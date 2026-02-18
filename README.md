@@ -1,7 +1,11 @@
 # 🇹🇳 TUNISIAN DATA HUB
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f341ebae-f487-49b1-aff0-95534e01ee71" width="750" height="750" alt="tunisian-data">
+</p>
 
 ## THE OPEN NATIONAL DATASET FOR ARTIFICIAL INTELLIGENCE
 *(المكتبة الوطنية المفتوحة للذكاء الاصطناعي والبيانات)*
+
 
 Tunisian Data Hub is a massive, high-granularity digital library created and licensed by **IyedeX**. This repository is the foundational training ground for **3amAli** and any future Tunisian AI models. It is designed to be the "Wikipedia of Tunisian Data"—open for the community to enrich, refine, and expand.
 
